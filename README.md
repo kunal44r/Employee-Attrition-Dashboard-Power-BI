@@ -1,4 +1,5 @@
 💼 HR Analytics Dashboard using Power BI
+
 📊 Project Overview
 This project focuses on analyzing employee attrition data using Power BI. The objective is to identify patterns and insights around employee attrition, including factors like age, job role, salary, education, gender, and years of experience. The dashboard provides HR teams and decision-makers with valuable insights to improve retention strategies.
 
