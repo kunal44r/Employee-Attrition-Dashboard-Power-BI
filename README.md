@@ -6,11 +6,11 @@ This project focuses on analyzing employee attrition data using Power BI. The ob
 🧰 Tools Used
 Power BI Desktop: For data visualization and dashboard creation
 
-Microsoft Excel (assumed): For data cleaning and preprocessing
+Microsoft Excel and Power Quary Editor: For data cleaning and preprocessing
 
-Python (Basic): For potential data preprocessing (if any)
+Python (Basic): For potential data preprocessing 
 
-NumPy & Matplotlib (optional addition to highlight data skills)
+
 
 📌 Key Insights
 Total Employees: 1470
